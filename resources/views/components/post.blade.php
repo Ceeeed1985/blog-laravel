@@ -20,7 +20,7 @@
        @endif
 
 
-        <p class="text-xl lg:text-2xl text-slate-600">
+        <p class="text-xl lg:text-lg text-slate-600">
             @if ($list)
             {{ $post->excerpt }}
             @else
